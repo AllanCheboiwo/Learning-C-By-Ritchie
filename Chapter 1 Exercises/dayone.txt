@@ -1,1 +1,3 @@
-Lets go!!! I have started learnign c and it is fun.
+This line is short.  '\t'.
+
+My name is Allan Kiptanui Cheboiwo, i am a ver nice guy and i like nice things. Ami i Cool, yes I am cool. Am i a chill guy? yes i am a chill guy. Thanks for your attention to this matter!'\t'

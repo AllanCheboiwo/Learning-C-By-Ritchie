@@ -6,7 +6,7 @@ int main()
     float fahr, celsius;
     float upper, lower, step;
 
-    /*Variable assignment*/
+    /*Variable initialization*/
     lower = 0.0;
     upper = 300.0;
     step = 20.0;
