@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 void filecopy(FILE *,FILE *);
 int main(int argc, char *argv[]){
     FILE *fp;

@@ -49,7 +49,8 @@ int miniprintf(char *fmt, ...)
         switch(*p){
             case 'd':
                 ival = va_arg(ap,int);
-                charcnt+=printf("%d",ival);
+                int c = printf("%d",ival);
+                charcnt+=c;
                 break;
             case 'f':
                 dval = va_arg(ap,double);
